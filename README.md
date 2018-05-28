@@ -2,7 +2,7 @@
 - open ilect  
 - click 'file>new>terminal'  
 - enter **`cd userspace`**  
-- enter **`git clone -b development https://github.com/weben2018-team-f/UTalk.git`  **
+- enter **`git clone -b develop https://github.com/weben2018-team-f/UTalk.git`  **
 - enter **`cd UTalk`  **
 - enter **`git config --global user.name <yourname>`    **
 - enter **`git config --global user.email <yourmail>`  **
