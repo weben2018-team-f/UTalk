@@ -1,4 +1,4 @@
-# The description of folders struscture 
+# The description of folder struscture 
 - UTalk
     - db  
         contain .json files
@@ -10,3 +10,5 @@
         - images
     - templatess  
         the folder which contain html files.
+- runserver.py  
+    exec this file to start this app
