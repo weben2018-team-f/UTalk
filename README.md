@@ -1,9 +1,14 @@
 ## 1.development procedure
-open ilect  
-click 'file>new>terminal'  
-enter `cd userspace`  
-enter `git clone -b development https://github.com/weben2018-team-f/UTalk.git`  
-enter `cd UTalk`
+- open ilect  
+- click 'file>new>terminal'  
+- enter **`cd userspace`**  
+- enter **`git clone -b development https://github.com/weben2018-team-f/UTalk.git`  **
+- enter **`cd UTalk`  **
+- enter **`git config --global user.name <yourname>`    **
+- enter **`git config --global user.email <yourmail>`  **
+
+Then, let's start your part!
+
 
 ## 2.The description of folder struscture 
 - UTalk
