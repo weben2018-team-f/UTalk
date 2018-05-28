@@ -1,4 +1,11 @@
-# The description of folder struscture 
+## 1.development procedure
+open ilect  
+click 'file>new>terminal'  
+enter `cd userspace`  
+enter `git clone -b development https://github.com/weben2018-team-f/UTalk.git`  
+enter `cd UTalk`
+
+## 2.The description of folder struscture 
 - UTalk
     - db  
         contain .json files
