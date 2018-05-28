@@ -1,8 +1,7 @@
-from UTalk import user
+from UTalk import app
 from flask import Flask,render_template
-from flask import Module
 
-user = Module(__name__)
+user = Flask(__name__)
 
 @user.route('/signup')
 def registration():
